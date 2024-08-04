@@ -4,11 +4,11 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🔭 I’m currently working with **Masycoda solutions pvt ltd**
 
-- 🌱 I’m currently learning **front end technologies**
+- 🌱 I’m currently working on  ** Fullstack technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mangeshdhok12](https://github.com/mangeshdhok12)
 
-- 💬 Technologies I'm working with **react, nextjs, Javascript, bootstrap, redux, react hooks**
+- 💬 Technologies I'm working with **react, nodejs, expressjs, mongodb,  nextjs, Javascript, bootstrap, redux, react hooks**
 
 - 📫 How to reach me **dhokmangesh678@gmail.com**
 
